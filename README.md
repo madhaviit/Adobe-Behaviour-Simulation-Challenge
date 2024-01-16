@@ -1,4 +1,17 @@
-# Adobe Behaviour Simulation Challenge
+# Adobe - Mid Prep Problem Statement
+# Behaviour Simulation Challenge - Inter IIT Tech Meet 12.0
+## IIT Indore (Team 22) 
+
+**Won Bronze Medal (Absolute Rank 3) :3rd_place_medal:**
+
+### Contributors
+
+- [Madhav Kadam](https://github.com/madhaviit)
+- [G Aakash](https://github.com/cse210001015)
+- [Arnav Jain](https://github.com/arnavjain2710)
+- [Bharat Kaurav](https://github.com/TheNetherWatcher)
+- [Lovely Bhardwaj](https://github.com/lovelybhardwaj)
+- [Abhinav Gangil](https://github.com/xenom2004)
 
 ## Overview
 
